@@ -124,9 +124,16 @@ int main()
 				continue;
 		case 6: vowels_replace();
 				continue;
-		case 7: s1 = temp;
-				cout << "\nUndo sucessfull" << endl;
-				cout << "\noriginal string is " << s1 <<endl;
+		case 7: 	cout << "\nUndo sucessfull" << endl;
+				if (count % 2 == 0)
+				{
+					cout << "\nundo string is " << temp << endl;
+				}
+				else
+				{
+					cout << "\nundo string is " << s1 << endl;
+				}
+				count = count + 1;
 				continue;
 		case 8: cmd_history.pop();
 				redo_cmd = usr_cmd;

@@ -1,0 +1,8 @@
+﻿  Anakage_test.cpp
+c:\users\babus\desktop\code\anakage\anakage\anakage\anakage_test.cpp(26): warning C4267: 'initializing': conversion from 'size_t' to 'char', possible loss of data
+c:\users\babus\desktop\code\anakage\anakage\anakage\anakage_test.cpp(64): warning C4018: '<': signed/unsigned mismatch
+c:\users\babus\desktop\code\anakage\anakage\anakage\anakage_test.cpp(67): warning C4267: '=': conversion from 'size_t' to 'char', possible loss of data
+c:\users\babus\desktop\code\anakage\anakage\anakage\anakage_test.cpp(87): warning C4018: '<': signed/unsigned mismatch
+c:\users\babus\desktop\code\anakage\anakage\anakage\anakage_test.cpp(89): warning C4267: '=': conversion from 'size_t' to 'char', possible loss of data
+  Anakage.vcxproj -> C:\Users\babus\Desktop\CODE\anakage\Anakage\Debug\Anakage.exe
+  Anakage.vcxproj -> C:\Users\babus\Desktop\CODE\anakage\Anakage\Debug\Anakage.pdb (Partial PDB)
